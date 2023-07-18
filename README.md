@@ -51,9 +51,14 @@ D. Interpreting Results and future work
 Four regression models were trained to predict and hyper parameter tuning was done using the optuna package.
 The accuracy scores ranged from 78% to 95%.
 
+
 An alternative approach where the target column , length of stay is left as  numerical column could be explored. 
 
+PROJECT B - 18/07/23
 
+Kaggle House Prices Prediction
+
+This is the standars kagle entry machine learning task.
 
 
 
